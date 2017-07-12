@@ -1,0 +1,26 @@
+{
+  "name": "foursquare",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "mocha"
+  },
+  "description": "This is an app that provides information about venues",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kingsley1331/foursquareApp.git"
+  },
+  "author": "Kingsley Ankomah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kingsley1331/foursquareApp/issues"
+  },
+  "homepage": "https://github.com/Kingsley1331/foursquareApp#readme"
+}
